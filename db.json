@@ -6,14 +6,9 @@
       "id": 1
     },
     {
-      "nombre": "Pedro",
-      "email": "pedro@alura.com",
-      "id": "0ea8888b-bc28-42d9-b608-1faeb6070cdc"
-    },
-    {
-      "nombre": "Miriam",
-      "email": "miriam@alura.com",
-      "id": "91ac75e8-897e-4e1d-ad1c-d3fafabbe6d1"
+      "nombre": "Pedrito",
+      "email": "pedrito@alura.com",
+      "id": "3f40d3a7-b754-4b66-a748-887b4f5fafc7"
     }
   ]
 }
